@@ -1,0 +1,27 @@
+localhost/path/?x-api
+http://127.0.0.1:8000/
+
+Hello Si/Mam 
+
+
+1:---
+Here I am Giving you End points for the urls i had made :
+http://127.0.0.1:8000/ + URL
+
+    for example : - http://127.0.0.1:8000/product_list
+
+     path('home', home, name='home'),
+     path('product_list', product_list, name='product_list'),
+     path('<int:pk>/detail/', product_detail, name='product_detail'),
+     path('<int:pk>/update/', product_update, name='product_update'),
+     path('<int:pk>/delete/', product_delete, name='product_delete'),
+     path('product_add', product_add, name='product_add'),
+     path('register/', register, name='registration'),
+     path('login/', login, name='login')
+
+2:---
+<int:pk> is the integer value of the products , i.e if we need to check details of the second product we will write http://127.0.0.1:8000/2/detail
+
+3:---
+Git Url is 	https://github.com/Amitrai96/test
+
