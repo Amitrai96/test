@@ -1,14 +1,14 @@
 localhost/path/?x-api
-http://127.0.0.1:8000/
+http://192.168.203.17:8000/
 
 Hello Si/Mam 
 
 
 1:---
 Here I am Giving you End points for the urls i had made :
-http://127.0.0.1:8000/ + URL
+http://192.168.203.17:8000/ + URL
 
-    for example : - http://127.0.0.1:8000/product_list
+    for example : - http://192.168.203.17:8000/product_list
 
      path('home', home, name='home'),
      path('product_list', product_list, name='product_list'),
@@ -25,3 +25,4 @@ http://127.0.0.1:8000/ + URL
 3:---
 Git Url is 	https://github.com/Amitrai96/test
 
+4:- For Admin Superuser  Id is Admin password is adminadmin
