@@ -1,0 +1,59 @@
+# Json Manupulation Code
+
+## 1. Overview
+This project is a Python code designed to extract following informations. 
+Find and return the cheapest (lowest) shown price (Please avoid using the minimum function)
+Find and return the room type, number of guest with the cheapest price 
+Print the total price (Net price + taxes) for all rooms along with the room type
+Add  CSV output as a sample output file
+Code Documentation
+Upload the script into Github and link share.
+
+
+
+
+### 2. Dependencies
+Listed all the external libraries our project depends on. We can use `requirements.txt` or `Pipfile` for this (Not Required In Our Current Script).
+
+**Example:**
+## Dependencies
+
+The project uses the following Python libraries:
+
+- `csv==2.26.0`
+- `json==1.21.2`
+
+
+
+### 3. Workflow
+Describing the workflow or process of how our code should be executed or used. This may include initialization steps, data processing, and output generation.
+
+**Example:**
+```markdown
+## Workflow
+
+1. **Initialize the Project:**
+
+   Ensure we have set up your environment .
+
+2. **Data Preparation:**
+
+   Our Json File should be with the script . Ensure it is in the required json format.
+
+3. **Run Data Processing:**
+
+   Execute the main script with the appropriate command-line arguments (Or directly with the Idle).
+
+4. **Review Results:**
+
+   The output will be saved in the current directory where our script file is being executed . Review the output files to verify the results.
+
+5. **Troubleshooting:**
+
+   - If you encounter issues, check the for the Error lines in the terminal section and identify the type of issue we are facing.
+   - Ensure all dependencies are correctly installed.
+
+
+
+
+
